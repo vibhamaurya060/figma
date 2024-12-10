@@ -1,0 +1,141 @@
+.home-section {
+    width: 159px;
+    height: 45px;
+    /* border: 1px solid; */
+    margin-top: 9px;
+    margin-left: 34px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.home-dot {
+    width: 5px;
+    height: 5px;
+    opacity: 0.3px;
+    background: var(--body-primary-light, #9C9C9C);
+    border-radius: 50%;
+
+}
+
+.art-de {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: var(--body-primary-light, #9C9C9C);
+
+}
+
+.section-1 {
+    width: 100%;
+    /* border: 1px solid; */
+    display: flex;
+}
+
+.big-image-section {
+    width: 761px;
+    height: 652px;
+    margin-top: 9px;
+    margin-left: 30px;
+    border-radius: var(--radius-md);
+    opacity: 0px;
+    background-color: #F8F6F4;
+    /* border: 1px solid; */
+    display: flex;
+}
+
+.four-table {
+    margin-top: 10px;
+    margin-left: 11px;
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 55px;
+
+}
+
+.table-box1 {
+    width: 55px;
+    height: 55px;
+    border: 0.1px solid #ffffff;
+    background: #FFFFFF;
+    border-radius: 5px;
+    opacity: 0px;
+}
+
+.table-box2 {
+    width: 55px;
+    height: 55px;
+    border: 1px solid #ffffff;
+    background: #FFFFFF;
+    border-radius: 5px;
+    opacity: 0px;
+}
+
+.table-box3 {
+    width: 55px;
+    height: 55px;
+    border: 1px solid #ffffff;
+    background: #FFFFFF;
+    border-radius: 5px;
+    opacity: 0px;
+}
+
+.table-box4 {
+    width: 55px;
+    height: 55px;
+    border: 1px solid #ffffff;
+    background: #FFFFFF;
+    border-radius: 5px;
+    opacity: 0px;
+
+}
+
+.small-table-image1 {
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 8px;
+    opacity: 0px;
+
+}
+
+.larg-image {
+    width: 552px;
+    height: 552px;
+    margin-top: 42px;
+    margin-left: 15px;
+    opacity: 0px;
+
+}
+
+.text-section-1 {
+    /* border: 1px solid; */
+    width: 754px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.cheese-heading-section {
+    width: 754px;
+    display: flex;
+}
+
+.cheese-heading-section>span {
+
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 37.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.cheese-like {
+    margin-left: 205px;
+
+}
